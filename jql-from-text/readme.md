@@ -15,7 +15,7 @@ https://kanasoftware.jira.com/browse/VOC-2447 (Review Acs and ticket description
 https://kanasoftware.jira.com/browse/VOC-12981 (Review Acs and ticket description)
 https://kanasoftware.jira.com/browse/VOC-9747 (Review Acs and ticket description)
 https://kanasoftware.jira.com/browse/VOC-12980 (Review Acs and ticket description)
-2. Run `node ./jql-from-text/jql-from-text.js`
+2. Run `./jql-from-text/jql-from-text`
 3. JQL filter content is returned to the clipboard, i.e.
 
 > `issueKey in (VOC-562, VOC-2447, VOC-12981, VOC-9747, VOC-12980)`

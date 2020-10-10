@@ -1,0 +1,18 @@
+{
+  "name": "jql-from-text",
+  "version": "1.0.0",
+  "description": "Pulls Jira ticket IDs from the clipboard and returns a JQL filter to display a list of those tickets in Jira's advanced search",
+  "main": "jql-from-text.js",
+  "dependencies": {
+    "copy-paste": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Selwyn Leeke",
+  "license": "ISC",
+  "bin": {
+    "jql-from-text": "./jql-from-text.js"
+  }
+}
